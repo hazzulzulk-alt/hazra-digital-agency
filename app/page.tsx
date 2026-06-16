@@ -163,7 +163,7 @@ export default function HazraDigitalAgency() {
             <motion.img
               whileHover={{ rotate: 180 }}
               transition={{ duration: 0.5 }}
-              src="/logo.png.png"
+              src="/logo.png"
               alt="Hazra Logo"
               className="w-12 h-12 object-contain"
             />
